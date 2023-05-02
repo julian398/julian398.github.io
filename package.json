@@ -2,7 +2,7 @@
   "name": "mypage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://julian398.github.io/",
+  "homepage": "http://julian398.github.io/julian398.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -16,7 +16,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
