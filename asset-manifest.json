@@ -1,13 +1,13 @@
 {
-  "main.js": "/julian398.github.io/static/js/main.4a019539.chunk.js",
-  "main.js.map": "/julian398.github.io/static/js/main.4a019539.chunk.js.map",
-  "static/js/1.decdc751.chunk.js": "/julian398.github.io/static/js/1.decdc751.chunk.js",
-  "static/js/1.decdc751.chunk.js.map": "/julian398.github.io/static/js/1.decdc751.chunk.js.map",
-  "static/js/2.ff813772.chunk.js": "/julian398.github.io/static/js/2.ff813772.chunk.js",
-  "static/js/2.ff813772.chunk.js.map": "/julian398.github.io/static/js/2.ff813772.chunk.js.map",
-  "runtime~main.js": "/julian398.github.io/static/js/runtime~main.afb1199f.js",
-  "runtime~main.js.map": "/julian398.github.io/static/js/runtime~main.afb1199f.js.map",
-  "index.html": "/julian398.github.io/index.html",
-  "precache-manifest.a96f064330294653a97aec18a3703145.js": "/julian398.github.io/precache-manifest.a96f064330294653a97aec18a3703145.js",
-  "service-worker.js": "/julian398.github.io/service-worker.js"
+  "main.js": "/static/js/main.4a019539.chunk.js",
+  "main.js.map": "/static/js/main.4a019539.chunk.js.map",
+  "static/js/1.decdc751.chunk.js": "/static/js/1.decdc751.chunk.js",
+  "static/js/1.decdc751.chunk.js.map": "/static/js/1.decdc751.chunk.js.map",
+  "static/js/2.ff813772.chunk.js": "/static/js/2.ff813772.chunk.js",
+  "static/js/2.ff813772.chunk.js.map": "/static/js/2.ff813772.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.e780d1f4.js",
+  "runtime~main.js.map": "/static/js/runtime~main.e780d1f4.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.8d2de883da735afbf3e33a3eb160ef2a.js": "/precache-manifest.8d2de883da735afbf3e33a3eb160ef2a.js",
+  "service-worker.js": "/service-worker.js"
 }
