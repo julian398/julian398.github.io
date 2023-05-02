@@ -2,7 +2,7 @@
   "name": "mypage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://julian398.github.io/julian398.github.io",
+  "homepage": "http://julian398.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
