@@ -1,0 +1,56 @@
+.main{
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    background-color: black;
+    display: flex;
+    flex-flow: column;
+    width: 13vw;
+}
+
+.main ul{
+    padding: 0%;
+    margin-left: 8%;
+    margin-right: auto;
+    margin-top: 15dvh;
+    list-style: none;
+}
+
+.main ul li{
+    padding-top: 40%;
+    color: white;
+}
+
+.main ul li button:hover{
+    cursor: pointer;
+}
+
+.main ul li button{
+    height: 30px;
+    width: max-content;
+    background-color: black;
+    box-shadow: none;
+    border: none;
+    color: white;
+    display: flex;
+    align-items: flex-end;
+}
+
+.main ul li button span{
+    font-size: medium;
+}
+
+.main img{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.main ul li img{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    box-shadow: none;
+    border: none;
+    margin-right: 4px;
+}

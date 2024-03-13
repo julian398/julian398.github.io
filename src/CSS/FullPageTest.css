@@ -1,0 +1,14 @@
+.Test{
+    padding-left: 13vw;
+    background-image: linear-gradient(to bottom right, #EE500C, #3E1F66);
+    height: 100vh;
+}
+
+.Name{
+    padding-top: 15px;
+    padding-left: 15px;
+    margin: 0%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}

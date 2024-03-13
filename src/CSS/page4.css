@@ -1,0 +1,52 @@
+.title4{
+    padding-top: 5vh;
+    margin-left: 3vw;
+    font-size: 50px;
+
+}
+
+.page4{
+    padding: 2%;
+    margin-top: 2vh;
+    background-image: linear-gradient(to bottom right, #000000, #00000000);
+    height: 70vh;
+    width: 75vw;
+    font-size: 20px;
+    line-height: 4vh;
+}
+
+.galleryPro {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+    height: 100%;
+}
+
+.galleryPro div{
+    border-radius: 5%;
+    background-color: #0000005e;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    padding-top: 2vh;
+    height: 90%;
+}
+
+.galleryPro div:hover{
+}
+
+.galleryPro img{
+    max-width: 30%;
+    max-height: auto;
+}
+
+.galleryPro p{
+    align-items: baseline;
+    padding: 2%;
+    margin: 0%;
+}
+
+.footnote{
+    font-size: small;
+}

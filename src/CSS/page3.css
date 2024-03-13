@@ -1,0 +1,58 @@
+.title3{
+    padding-top: 5vh;
+    margin-left: 3vw;
+    font-size: 50px;
+
+}
+
+.page3{
+    padding: 2%;
+    margin-top: 2vh;
+    background-image: linear-gradient(to bottom right, #000000, #00000000);
+    height: 70vh;
+    width: 75vw;
+    font-size: 20px;
+    line-height: 4vh;
+}
+
+.galleryUP {
+    margin-top: 1%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+    height: 90%;
+}
+
+.galleryUP div{
+    border-radius: 5%;
+    background-color: #0000005e;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    padding-top: 2vh;
+    height: 60vh;
+    transition: transform .2s
+}
+
+.galleryUP div:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.galleryUP img{
+    max-height: 100%;
+    max-width: 80%;
+    width: auto;
+    min-width: 300px;
+}
+
+.galleryUP p{
+    align-items: baseline;
+    padding: 0%;
+    margin: 0%;
+}
+
+.footnote{
+    font-size: small;
+}
