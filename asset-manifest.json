@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/julian398.github.io/static/css/main.39e02abe.css",
+    "main.js": "/julian398.github.io/static/js/main.2fa17dd4.js",
+    "static/js/453.a5274a8a.chunk.js": "/julian398.github.io/static/js/453.a5274a8a.chunk.js",
+    "static/media/CyberRingB.png": "/julian398.github.io/static/media/CyberRingB.89b464bf98aae3195108.png",
+    "static/media/Csharp.png": "/julian398.github.io/static/media/Csharp.d8e9a9289dcc76d931b9.png",
+    "static/media/mySQL.png": "/julian398.github.io/static/media/mySQL.167c88550478e6f0f85c.png",
+    "static/media/Adportas.png": "/julian398.github.io/static/media/Adportas.480ecc21598ddae0ac17.png",
+    "static/media/Python.png": "/julian398.github.io/static/media/Python.52d7bb207f9868b90e39.png",
+    "static/media/BattleShipB.jpg": "/julian398.github.io/static/media/BattleShipB.f45d24968664eacd0ea7.jpg",
+    "static/media/Java.png": "/julian398.github.io/static/media/Java.3b32f72e0c47600f93a0.png",
+    "static/media/SabanaL.png": "/julian398.github.io/static/media/SabanaL.634b7aefa324fc387864.png",
+    "static/media/Sabana.png": "/julian398.github.io/static/media/Sabana.de4d51260beac87a594d.png",
+    "static/media/Unreal.png": "/julian398.github.io/static/media/Unreal.73d5c115db07510d97e0.png",
+    "static/media/SocialShoppng.png": "/julian398.github.io/static/media/SocialShoppng.7ecb6198ab61a4ec0972.png",
+    "static/media/VolanteL.png": "/julian398.github.io/static/media/VolanteL.5b7629dc6cc01fd10acd.png",
+    "static/media/React.png": "/julian398.github.io/static/media/React.3b5049ea7908e9da3ba0.png",
+    "static/media/Logo.png": "/julian398.github.io/static/media/Logo.d6a71cc3c9cae7bdcb67.png",
+    "static/media/Javascript.png": "/julian398.github.io/static/media/Javascript.266bd9fb2663dcc057b4.png",
+    "index.html": "/julian398.github.io/index.html",
+    "main.39e02abe.css.map": "/julian398.github.io/static/css/main.39e02abe.css.map",
+    "main.2fa17dd4.js.map": "/julian398.github.io/static/js/main.2fa17dd4.js.map",
+    "453.a5274a8a.chunk.js.map": "/julian398.github.io/static/js/453.a5274a8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e02abe.css",
+    "static/js/main.2fa17dd4.js"
+  ]
+}
