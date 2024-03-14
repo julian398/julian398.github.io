@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/julian398.github.io/static/css/main.39e02abe.css",
-    "main.js": "/julian398.github.io/static/js/main.2fa17dd4.js",
+    "main.css": "/julian398.github.io/static/css/main.02d8589c.css",
+    "main.js": "/julian398.github.io/static/js/main.17edb938.js",
     "static/js/453.a5274a8a.chunk.js": "/julian398.github.io/static/js/453.a5274a8a.chunk.js",
     "static/media/CyberRingB.png": "/julian398.github.io/static/media/CyberRingB.89b464bf98aae3195108.png",
     "static/media/Csharp.png": "/julian398.github.io/static/media/Csharp.d8e9a9289dcc76d931b9.png",
@@ -19,12 +19,12 @@
     "static/media/Logo.png": "/julian398.github.io/static/media/Logo.d6a71cc3c9cae7bdcb67.png",
     "static/media/Javascript.png": "/julian398.github.io/static/media/Javascript.266bd9fb2663dcc057b4.png",
     "index.html": "/julian398.github.io/index.html",
-    "main.39e02abe.css.map": "/julian398.github.io/static/css/main.39e02abe.css.map",
-    "main.2fa17dd4.js.map": "/julian398.github.io/static/js/main.2fa17dd4.js.map",
+    "main.02d8589c.css.map": "/julian398.github.io/static/css/main.02d8589c.css.map",
+    "main.17edb938.js.map": "/julian398.github.io/static/js/main.17edb938.js.map",
     "453.a5274a8a.chunk.js.map": "/julian398.github.io/static/js/453.a5274a8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.39e02abe.css",
-    "static/js/main.2fa17dd4.js"
+    "static/css/main.02d8589c.css",
+    "static/js/main.17edb938.js"
   ]
 }
