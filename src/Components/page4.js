@@ -16,7 +16,7 @@ const page4 = () =>{
                     <div>
                         <img src={SabanaL} alt=""/>
                         <p>Universidad de la Sabana</p>
-                        <p className="footnote">Worked from August 2023 to January 2024, I was part of the database group within the university and the project we were working towards was a dashboard were we could visualize the entrepreneurship of the graduates, this information was inside a series of Excels and I had to do a ETL process for each where after I organized the information correctly I would feed it into ODI ${"("}Oracle data integrator${")"} to integrate the data into the existing database making changes where necesary</p>
+                        <p className="footnote">Worked from August 2023 to January 2024, I was part of the database group within the university and the project we were working towards was a dashboard were we could visualize the entrepreneurship of the graduates, this information was inside a series of Excels and I had to do a ETL process for each where after I organized the information correctly I would feed it into ODI {"("}Oracle data integrator{")"} to integrate the data into the existing database making changes where necesary</p>
                     </div>
                 </div>
             </div>

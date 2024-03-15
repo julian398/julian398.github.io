@@ -3,7 +3,7 @@ import SideBar from "./SideBar";
 import FullPageTest from "./FullPageTest";
 
 const Base = () =>{
-    const [CurrentPage, setCurrentPage] = useState("")
+    const [CurrentPage, setCurrentPage] = useState("1")
     return(
         <div className="Base">
             <SideBar CurrentPage={CurrentPage} setCurrentPage={setCurrentPage}></SideBar>

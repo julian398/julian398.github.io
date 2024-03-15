@@ -24,7 +24,6 @@ const FullPageTest = ({CurrentPage}) =>{
     return(
         <div className="Test">
             <dir className = "Name">Andres Julian Avella <br/> C:/Software Engineer
-            {CurrentPage}
             {display}
             </dir>
         </div>
